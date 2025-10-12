@@ -3,13 +3,13 @@
 <h3 align="center">Java Full Stack Developer | Focused on Building Scalable and Reliable Software Solutions</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="http://www.linkedin.com/in/gangireddygari-bramha-teja-reddy-1b978b27b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Bramhatejareddy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:your.gangireddybramhatejareddy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -17,9 +17,9 @@
 ---
 
 ### About Me  
-I’m an **entry-level Java Full Stack Developer** with a strong foundation in **Core Java, Spring Boot, MySQL, and modern web technologies**.  
-I focus on writing clean, efficient, and maintainable code.  
-Passionate about solving real-world problems through technology, learning continuously, and contributing to collaborative development teams.
+I'm an **ambitious and detail-oriented Java Full Stack Developer** passionate about crafting reliable, scalable, and high-performance applications.  
+I enjoy working across the full stack — from designing REST APIs in **Spring Boot** to creating responsive UIs with **React.js**.  
+My focus is always on **clean architecture, teamwork, and continuous improvement**.
 
 ---
 
@@ -55,6 +55,7 @@ A full-stack application designed to manage books, users, and borrowing transact
 **Tech Stack:** Java, MySQL, IntelliJ IDEA  
 [View Repository](#)
 
+
 ---
 
 ### Education  
@@ -78,9 +79,17 @@ A full-stack application designed to manage books, users, and borrowing transact
 
 ### Contact  
 
-📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)  
-💻 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+<p align="center">
+  <a href="http://www.linkedin.com/in/gangireddygari-bramha-teja-reddy-1b978b27b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bramhatejareddy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:gangireddybramhatejareddy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
