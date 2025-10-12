@@ -3,9 +3,7 @@
 <h3 align="center">Java Full Stack Developer | Focused on Building Scalable and Reliable Software Solutions</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-bramha-teja-reddy-gangireddygari-1b978b27b
-" target="_blank">
+  <a href="www.linkedin.com/in/bramha-teja-reddy-gangireddygari-1b978b27b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Bramhatejareddy" target="_blank">
