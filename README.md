@@ -43,7 +43,7 @@ A personal finance management application with data visualization dashboards.
 - Deployed using Docker for scalable environment setup.  
 
 **Tech Stack:** Java, Spring Boot, React.js, MySQL, Chart.js, Docker  
-[View Repository](#)
+[View Repository](https://github.com/Bramhatejareddy/SETAD--Smart-Expense-Tracker-with-Analytics-Dashboard-.git)
 
 ---
 
@@ -53,7 +53,7 @@ A full-stack application designed to manage books, users, and borrowing transact
 - Improved database efficiency through optimized schema design.  
 
 **Tech Stack:** Java, MySQL, IntelliJ IDEA  
-[View Repository](#)
+[View Repository](https://github.com/Bramhatejareddy/LMS.git)
 
 
 ---
