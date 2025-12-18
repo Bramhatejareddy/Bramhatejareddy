@@ -1,4 +1,4 @@
-<h1 align="center">GangireddyGari Bramha Teja Reddy</h1>
+<h1 align="center">Bramha Teja Reddy Gangireddy</h1>
 
 <h3 align="center">Java Full Stack Developer | Focused on Building Scalable and Reliable Software Solutions</h3>
 
